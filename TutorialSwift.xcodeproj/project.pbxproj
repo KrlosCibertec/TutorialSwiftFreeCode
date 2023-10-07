@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9854C2862AD1EC8600D87A76 /* Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Classes.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9896FFC62AC8BBF500644A8D /* TutorialSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TutorialSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9896FFC92AC8BBF500644A8D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9896FFCB2AC8BBF500644A8D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +25,7 @@
 		9896FFD22AC8BC1400644A8D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9896FFD52AC8BC1400644A8D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9896FFD72AC8BC1400644A8D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9896FFDD2AC8BCA100644A8D /* Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeration.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,8 @@
 		9896FFBD2AC8BBF500644A8D = {
 			isa = PBXGroup;
 			children = (
+				9854C2862AD1EC8600D87A76 /* Classes.playground */,
+				9896FFDD2AC8BCA100644A8D /* Enumeration.playground */,
 				9896FFC82AC8BBF500644A8D /* TutorialSwift */,
 				9896FFC72AC8BBF500644A8D /* Products */,
 			);
